@@ -28,7 +28,7 @@ Before you begin, ensure you have the following installed:
     
 5. Run Terraform commands to deploy the VM:
    
-   terraform init
+   terraform init ;
    terraform apply
    
 ## Contributing
