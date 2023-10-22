@@ -22,9 +22,9 @@ Before you begin, ensure you have the following installed:
    cd terraform-create-template
 
 3. Modify files to set your configuration options.
-   terraform.tfvars
-   var.auto.tfvars
-   variables.tf (Optional)
+   ( "terraform.tfvars",
+   "var.auto.tfvars",
+   "variables.tf"(Optional) )
     
 5. Run Terraform commands to deploy the VM:
    
