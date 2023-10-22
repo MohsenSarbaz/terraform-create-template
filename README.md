@@ -15,8 +15,6 @@ Before you begin, ensure you have the following installed:
 
 ## Getting Started
 
-Provide step-by-step instructions on how to get your project running on their local machine or in their environment. For example:
-
 1. Clone the repository:
   MohsenSarbaz/terraform-create-template
 2. Navigate to the project directory:
