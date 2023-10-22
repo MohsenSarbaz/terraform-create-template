@@ -5,7 +5,7 @@ vsphere_datastore = "YOUR-DATASTORE"
 vsphere_network = "VM Network"
 
 
-parent_folder = "PatentFolder"
+parent_folder = "ParentFolder"
 folder1 = "MODERN"
 folder2 = "SO"
 name = "SUSE-Linux-Enterprise-Server-15-SP3"
